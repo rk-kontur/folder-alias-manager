@@ -49,5 +49,9 @@ I have seen plugins that use aliases for folders and I know that it can be done 
 - English
 - German
 
+## Supported Operating Systems
+
+- Windows
+- Android
 
 
